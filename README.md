@@ -1,5 +1,3 @@
-# DIO-semana-frontend-mundo-invertido
-
 <h1 align="center">
  🚧 Este Readme está em construção 🚧
 </h1>
