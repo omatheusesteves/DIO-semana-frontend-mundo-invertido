@@ -8,6 +8,7 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 ## ▶️ Semana Front-end
 - [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
 - [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
+- [Live Dia 03](https://www.youtube.com/watch?v=x6oegBgBcG8)
 ## 💻 Tecnologias
 - HTML
 - CSS
